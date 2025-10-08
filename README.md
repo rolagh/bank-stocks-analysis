@@ -41,14 +41,7 @@ Through data analysis and visualization, the notebook highlights **stock perform
 
 ---
 
-### 3️⃣ Moving Average Trends  
-<p align="center">
-  <img src="images2/moving_ave.png" alt="Bank of America (2008) — Close Price vs 30-Day Moving Average" width="70%">
-</p>
-
----
-
-### 4️⃣ Correlation Heatmap  
+### 3️⃣ Correlation Heatmap  
 <p align="center">
   <img src="images2/correlation_heatmap.png" alt="Correlation Heatmap of Bank Closing Prices" width="70%">
 </p>
@@ -58,8 +51,7 @@ Through data analysis and visualization, the notebook highlights **stock perform
 ## 💡 Insights
 - Clear **price declines** observed during the 2008 financial crisis 📉  
 - Some banks demonstrated **faster recovery and stronger performance** after 2012  
-- Correlation heatmaps reveal strong relationships between **market-leading banks**  
-- Moving averages highlight **long-term growth vs. short-term volatility**
+- Correlation heatmaps reveal strong relationships between **market-leading banks**
 
 ---
 
